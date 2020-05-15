@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\(다시)1021 회전하는큐.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\(재)로봇청소기.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1011 Fly.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1057 토너먼트.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\10815 숫자카드.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\10816 숫자카드2.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1094 막대기.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\11047 동전 0.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\11052 카드 구매하기.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\11399 ATM.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\11650 좌표 정렬하기.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1181 단어정렬.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1260 BFS DFS.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\13458 시험 감독.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\14499 주사위굴리기.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\14502 연구소.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\14503 로봇청소기.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1463 1로 만들기.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\14888 연산자 끼워넣기.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\14890 경사로.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\14891 톱니바퀴.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1541 잃어버린 괄호.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1547 공.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\15683 감시.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\15686 치킨배달.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1620 나는야 포켓몬 마스터 이다솜.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\16236 아기상어.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1654 랜선자르기.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1697 숨바꼭질.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1931 회의실 배정.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\1966 프린터 큐.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\2110 공유기 설치.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\2146 다리만들기.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\2156 포도주 시식.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\2455 지능형기차.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\2468 안전영역.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\2644 촌수계산.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\2805 나무자르기.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\2869 달팽이는 올라가고싶다.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\4963 섬의개수.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\9663 N-Queen.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\BOJ 1182 부분수열의 합.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\BOJ 1309 동물원.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\BOJ 2161 카드1.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\BOJ 2225 합분해.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\BOJ 2309 일곱난쟁이.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\BOJ16236.cpp" />
+    <ClCompile Include="..\..\..\..\repos\Project2\BOJ\나이순 정렬.cpp" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <ProjectGuid>{0A0D785A-055A-44EF-A83D-F3A10A075585}</ProjectGuid>
+    <RootNamespace>Baekjoon</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
