@@ -67,6 +67,7 @@
     <ClCompile Include="..\..\..\..\repos\Project2\BOJ\BOJ 2309 일곱난쟁이.cpp" />
     <ClCompile Include="..\..\..\..\repos\Project2\BOJ\BOJ16236.cpp" />
     <ClCompile Include="..\..\..\..\repos\Project2\BOJ\나이순 정렬.cpp" />
+    <ClCompile Include="17143 낚시왕.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

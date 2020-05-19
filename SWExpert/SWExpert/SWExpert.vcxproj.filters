@@ -63,7 +63,10 @@
     <ClCompile Include="sw 요리사.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="sw 보호필름.cpp">
+    <ClCompile Include="%28재%29sw 보호필름.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sw 5658 보물상자 비밀번호.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
